@@ -16,7 +16,8 @@ function reverseStringWithException(str, exception) {
         
     }
     console.log(reversedText);
-    return reversedText;
+    return reversedText; 
+    
 };
 
 reverseStringWithException(str, exception);
