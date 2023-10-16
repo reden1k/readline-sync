@@ -9,6 +9,6 @@ function calculateRectangleProperties(width, height) {
     const P = (width * 2) + (height * 2);
     console.log('Периметр равен: ' + P);
     return P;
-}
+};
 
 calculateRectangleProperties(width, height);
