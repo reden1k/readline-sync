@@ -6,6 +6,6 @@ function generateRandomEquation() {
 
     const formule = (a * x + b) === c;
     console.log(a + ' \* ' + x + ' + ' + b + ' = ' + c + ' -> ' + formule);
-}
+};
 
 generateRandomEquation();
