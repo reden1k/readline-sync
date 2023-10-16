@@ -27,6 +27,6 @@ function calculateDistance(x1, y1, x2, y2) {
     }
     console.log(resultX1 + ' ' + resultX2);
     return resultX1, resultX2;
-}
+};
 
 calculateDistance(x1, y1, x2, y2);
