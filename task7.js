@@ -4,6 +4,6 @@ function countWords(sentence) {
     let count = sentence.split(' ').length;
     console.log(count);
 
-}
+};
 
 countWords(sentence);
